@@ -12,8 +12,8 @@
  
  *****************************
  
- If you want to renew your db, just delete the Reservations.db
- after you delete the db
- Run the main program and python GUI will appear.
- If you delete your db, select the Scheduled button first before you try to run the other buttons.
+ If you want to renew your db, just delete the Reservations.db on Reservations/db/.
+ 
+ Execute the main program and GUI will appear, on GUI there are three buttons: Schedule, Reservations, and Show the Reservations. You can choose buttons whatever you want if you
+ didn't delete the db otherwise you only have one option, the Schedule Button.
  
